@@ -75,3 +75,10 @@ This project is a test assessment involving the creation of two small applicatio
   npm run dev
   ```
 4. Remember the frontend application should be running simultaneously with the server.
+
+
+Demo:
+
+https://github.com/user-attachments/assets/c5cd5f3b-501e-40e1-9458-38baf306bc00
+
+
