@@ -1,6 +1,6 @@
 # Country Information App
 
-This project is a test assessment involving the creation of two small applications: a backend (BE) and a frontend (FE), which together provide information about countries. The backend is built using Node.js (with Express.js), while the frontend is built using React.js and Next.js. 
+This project is a test assessment involving the creation of two small applications: one backend and another frontend, which together provide information about countries. The backend is built using Node.js (with Express.js), while the frontend is built using React.js and Next.js. 
 
 ## Project Overview
 
